@@ -30,7 +30,7 @@ This program can't run on mac. It crashes when running with the mono-runtime
 
 ### screenshots
 
-![I feel so naked!](http://url/to/img.png)
+![ I feel so naked!](https://github.com/Frankmau5/TorrentViewer/blob/master/Images/image.JPG)
 
 ### Road Map
 | Job | Status|

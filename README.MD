@@ -23,7 +23,7 @@ This program can't run on mac. It crashes when running with the mono-runtime
 2. open zip file and unzip only the zip file in the program folder
 3. make a new directory where you want the program to be installed
 4. place the dll files and the exe to your new directory
-5. add directory path to your `PATH` or add an alais to your `.bashrc` file. e.g ``mono $PathToExe`
+5. add directory path to your `PATH` or add an alais to your `.bashrc` file. e.g `mono $PathToExe`
 
 
 

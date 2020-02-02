@@ -1,15 +1,17 @@
 ﻿# TorrentViewer
-** This Project was called TorrentEditor but this has changed **
+#### ** This Project was called TorrentEditor but this has changed **
 
 ### Description
 A small .NET Framework to view what data a .torrent file has.
 This program can run  on windows or linux (with the help of mono runtime)
 
+This program can't run on mac. It crashes when running with the mono-runtime
+
 ### Install
 
 #### Windows
 
-** There will be a install script made soon to make this easier. **
+#### ** There will be a install script made soon to make this easier. **
 
 1. Download the zip file in the program folder.
 2. Add a new folder in your `C:\Program Files (x86)` call it whatever you want.
@@ -26,7 +28,7 @@ This program can run  on windows or linux (with the help of mono runtime)
 
 
 
-### Usage
+### screenshots
 
 
 ### Road Map

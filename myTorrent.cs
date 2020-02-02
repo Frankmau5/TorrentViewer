@@ -35,7 +35,7 @@ namespace TorrentEdtior
             torrentMetaData = torrentMetaData + "Publisher: " + torrent.Publisher + "\n";
             torrentMetaData = torrentMetaData + "Publisher Url: " + torrent.PublisherUrl + "\n";
             torrentMetaData = torrentMetaData + "SHA1: " + torrent.SHA1 + "\n";
-            torrentMetaData = torrentMetaData + "Size: " + torrent.Size.ToString() + "\n";
+            torrentMetaData = torrentMetaData + "Size: " + torrent.Size.ToString() + "\n"; // display in right format (e.g kb or mb )
             torrentMetaData = torrentMetaData + "Source: " + torrent.Source + "\n";
             torrentMetaData = torrentMetaData + "Info Hash: " + torrent.InfoHash + "\n";
             torrentMetaData = torrentMetaData + "Is Private: " + torrent.IsPrivate + "\n";

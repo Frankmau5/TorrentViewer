@@ -17,13 +17,14 @@ namespace TorrentEdtior
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+
+
+        private void openBtn_Click(object sender, EventArgs e)
         {
-            // open button
             OpenFileDialog ofd = new OpenFileDialog();
             ofd.Title = "Please select a torrent file to open.";
             ofd.Filter = "Torrent files (*.torrent) | *.torrent; ";
-         
+
             if (ofd.ShowDialog() == DialogResult.OK)
             {
                 string torrentFilePath = ofd.FileName;
@@ -33,15 +34,14 @@ namespace TorrentEdtior
 
                 if (dataFromTorrent != null)
                 {
-                    this.richTextBox1.Text = dataFromTorrent; // displays info
+                    this.DisplayView.Text = dataFromTorrent; // displays info
                 }
-                    mt = null;
+                mt = null;
             }
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void aboutBtn_Click(object sender, EventArgs e)
         {
-            // about button
             AboutBox1 box = new AboutBox1();
             box.ShowDialog();
         }

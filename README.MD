@@ -2,7 +2,8 @@
 **This Project was called TorrentEditor but this has changed **
 
 ### Description
-A small .NET Framework to view what data a .torrent file has 
+A small .NET Framework to view what data a .torrent file has.
+This program can run  on windows or linux (with the help of mono runtime)
 
 ### Install
 

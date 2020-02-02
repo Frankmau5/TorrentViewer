@@ -17,6 +17,12 @@ This program can run  on windows or linux (with the help of mono runtime)
 4. Then make a shortcut for your desktop.
 
 #### Linux
+1. Download a zip copy of the project.
+2. open zip file and unzip only the zip file in the program folder
+3. make a new directory where you want the program to be installed
+4. place the dll files and the exe to your new directory
+5. add directory path to your `PATH` or add an alais to your `.bashrc` file. e.g ``mono $PathToExe`
+
 
 
 

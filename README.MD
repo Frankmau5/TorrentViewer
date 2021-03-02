@@ -1,5 +1,5 @@
 ﻿# TorrentViewer
-#### ** This Project is not in Read only mode. You should look at TRiver if you want a torrent viewer program (https://github.com/Frankmau5/TRiver)**
+#### ** This Project is in Read only mode. You should look at TRiver if you want a torrent viewer program (https://github.com/Frankmau5/TRiver)**
 
 ### Description
 A small .NET Framework to view what data a .torrent file has.

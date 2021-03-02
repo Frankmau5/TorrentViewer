@@ -1,9 +1,9 @@
 ﻿# TorrentViewer
-#### ** This Project was called TorrentEditor but this has changed **
+#### ** This Project is not in Read only mode. You should look at TRiver if you want a torrent viewer program (https://github.com/Frankmau5/TRiver)**
 
 ### Description
 A small .NET Framework to view what data a .torrent file has.
-This program can run  on windows or linux (with the help of mono runtime)
+This program can run on windows or linux (with the help of mono runtime)
 
 This program can't run on mac. It crashes when running with the mono-runtime
 
@@ -30,11 +30,5 @@ This program can't run on mac. It crashes when running with the mono-runtime
 
 ### screenshots
 
-![ I feel so naked!](https://github.com/Frankmau5/TorrentViewer/blob/master/Images/image.JPG)
+![Oh no something went wrong!](https://github.com/Frankmau5/TorrentViewer/blob/master/Images/image.JPG)
 
-### Road Map
-| Job | Status|
-| :------ | :---------- |
-| Add a smaller console version| Not Done |
-| Add a windows and linux install scripts | Not Done |
-| update README | Not Done |
